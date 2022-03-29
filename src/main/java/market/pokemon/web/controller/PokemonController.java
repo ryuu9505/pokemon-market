@@ -1,4 +1,4 @@
-package market.pokemon.web;
+package market.pokemon.web.controller;
 
 import market.pokemon.domain.item.Item;
 import org.springframework.stereotype.Controller;
