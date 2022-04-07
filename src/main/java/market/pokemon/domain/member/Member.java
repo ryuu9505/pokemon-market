@@ -1,6 +1,7 @@
-package market.pokemon.domain;
+package market.pokemon.domain.member;
 
 import lombok.*;
+import market.pokemon.domain.Order;
 
 import javax.persistence.*;
 import java.util.ArrayList;

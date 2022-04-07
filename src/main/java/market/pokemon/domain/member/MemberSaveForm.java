@@ -1,11 +1,11 @@
-package market.pokemon.form;
+package market.pokemon.domain.member;
 
 import lombok.Data;
 
 import javax.validation.constraints.NotBlank;
 
 @Data
-public class MemberUpdateForm {
+public class MemberSaveForm {
 
     @NotBlank
     private String name;

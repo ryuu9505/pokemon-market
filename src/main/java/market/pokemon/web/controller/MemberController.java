@@ -1,8 +1,8 @@
 package market.pokemon.web.controller;
 
 import lombok.RequiredArgsConstructor;
-import market.pokemon.domain.Member;
-import market.pokemon.domain.MemberRepository;
+import market.pokemon.domain.member.Member;
+import market.pokemon.domain.member.MemberRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

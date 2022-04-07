@@ -1,4 +1,4 @@
-package market.pokemon.service;
+package market.pokemon.domain.member;
 
 import org.springframework.stereotype.Service;
 
